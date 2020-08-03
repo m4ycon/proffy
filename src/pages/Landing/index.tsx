@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './styles.css';
+
 import logoImg from '../../assets/images/logo.svg';
 import landingImg from '../../assets/images/landing.svg';
 
@@ -29,7 +31,7 @@ export default () => {
 
           <a href="" className="give-classes">
             <img src={giveClassesIcon} alt="Dar aulas" />
-            Estudar
+            Dar aulas
           </a>
         </div>
 
