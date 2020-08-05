@@ -25,6 +25,7 @@ export default () => {
               { value: 'Sociologia', label: 'Sociologia' },
               { value: 'Filosofia', label: 'Filosofia' },
               { value: 'Física', label: 'Física' },
+              { value: 'Biologia', label: 'Biologia' },
             ]}
           />
           <Select
