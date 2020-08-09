@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img height="400px" src="https://github.com/m4ycon/proffy/blob/master/proffy-image.png" />
+</h1>
 
 ---
 
@@ -25,7 +28,7 @@ It was developed during Next Level Week #02, by **RocketSeat**.
 
 ---
 
-# Quests to be done
+# 📚 Quests to be done
   - [ ] Login/Register
   - [ ] JWT - Authentication
   - [ ] Forgot my password
